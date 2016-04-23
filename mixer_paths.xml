@@ -1560,7 +1560,7 @@
       <ctl name="DAC1 Switch" value="1" />
       <ctl name="COMP0 Switch" value="1" />
       <ctl name="HPHL DAC Switch" value="1" />
-      <ctl name="RX1 Digital Volume" value="87" />
+      <ctl name="RX1 Digital Volume" value="89" />
       <ctl name="RX7 Digital Volume" value="86" />
     </path>
 
