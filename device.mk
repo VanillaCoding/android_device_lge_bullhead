@@ -260,6 +260,10 @@ PRODUCT_PROPERTY_OVERRIDES += \
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.sf.lcd_density=420
 
+PRODUCT_PROPERTY_OVERRIDES += \    
+    persist.camera.eis.enable=1 \
+    persist.camera.is_mode=4
+
 PRODUCT_PROPERTY_OVERRIDES += \
     persist.hwc.mdpcomp.enable=true
 
